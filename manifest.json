@@ -1,0 +1,30 @@
+{
+    "name": "Drum Roll App",
+    "short_name": "Drum Roll",
+    "description": "Create drum roll sounds online!",
+    "start_url": "https://suryakant01.github.io/DrumRoll/",
+    "display": "standalone",
+    "background_color": "#BFACE2",
+    "theme_color": "#56067d",
+    "icons": [
+      {
+        "src": "./images/drums.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+        {
+      "src": "./images/drums.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+    ],
+    "shortcuts" : [
+  {
+    "name": "Linkedin",
+    "url": "https://www.linkedin.com/in/surya-kant-yadav-6192a224a",
+    "description": "Linkedin Profile"
+  }
+]
+    
+  }
